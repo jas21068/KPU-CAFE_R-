@@ -1,0 +1,6 @@
+framework module Pods_KPU_CAFE {
+  umbrella header "Pods-KPU CAFE-umbrella.h"
+
+  export *
+  module * { export * }
+}
